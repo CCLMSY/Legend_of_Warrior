@@ -84,7 +84,7 @@
 
 ## 安装/Installation
 ### 玩家
-[>点击这里<](https://github.com/CCLMSY/Legend_of_Warrior/releases/download/v1.0/Legend_of_Warrior_v1.0.zip)下载并解压压缩包，双击`Legend_of_Warrior.exe`即可运行游戏。
+[>点击这里<](https://github.com/CCLMSY/Legend_of_Warrior/releases/download/v1.0/Legend_of_Warrior_Ver1.0.zip)下载并解压压缩包，双击`Legend_of_Warrior.exe`即可运行游戏。
 ### 开发者
 1. 安装对应版本的Unity及VSCode，完成连接配置
 2. 克隆仓库
